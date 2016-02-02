@@ -1,0 +1,994 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ASJA Boys' College San Fernando",
+        "description": "ASJA Boys' College San Fernando: Not Sampled",
+        "sampled": 0,
+        "sampledstatus": "Not Sampled",
+        "FID": 0,
+        "id": 1,
+        "long": -61.46271181,
+        "lat": 10.26812841,
+        "marker-color": "#000100",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.46271181,
+          10.26812841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ASJA Girls' College San Fernando",
+        "description": "ASJA Girls' College San Fernando: Not Sampled",
+        "sampled": 0,
+        "sampledstatus": "Not Sampled",
+        "FID": 1,
+        "id": 2,
+        "long": -61.463345,
+        "lat": 10.268095,
+        "marker-color": "#000100",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.463345,
+          10.268095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cedros Secondary School",
+        "description": "Cedros Secondary School: Not Sampled",
+        "sampled": 0,
+        "sampledstatus": "Not Sampled",
+        "FID": 5,
+        "id": 3,
+        "long": -61.86313,
+        "lat": 10.08865,
+        "marker-color": "#000100",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.86313,
+          10.08865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gasparillo Composite School",
+        "description": "Gasparillo Composite School: Not Sampled",
+        "sampled": 0,
+        "sampledstatus": "Not Sampled",
+        "FID": 11,
+        "id": 4,
+        "long": -61.41059,
+        "lat": 10.32331,
+        "marker-color": "#000100",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.41059,
+          10.32331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marabella South Secondary",
+        "description": "Marabella South Secondary: Not Sampled",
+        "sampled": 0,
+        "sampledstatus": "Not Sampled",
+        "FID": 16,
+        "id": 5,
+        "long": -61.43643,
+        "lat": 10.2979,
+        "marker-color": "#000100",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.43643,
+          10.2979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Naparima Boys' College",
+        "description": "Naparima Boys' College: Not Sampled",
+        "sampled": 0,
+        "sampledstatus": "Not Sampled",
+        "FID": 17,
+        "id": 6,
+        "long": -61.4685,
+        "lat": 10.27576,
+        "marker-color": "#000100",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4685,
+          10.27576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pleasantville Secondary School",
+        "description": "Pleasantville Secondary School: Not Sampled",
+        "sampled": 0,
+        "sampledstatus": "Not Sampled",
+        "FID": 25,
+        "id": 7,
+        "long": -61.44793,
+        "lat": 10.27125,
+        "marker-color": "#000100",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.44793,
+          10.27125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point Fortin West Secondary",
+        "description": "Point Fortin West Secondary: Not Sampled",
+        "sampled": 0,
+        "sampledstatus": "Not Sampled",
+        "FID": 27,
+        "id": 8,
+        "long": -61.68465,
+        "lat": 10.16978,
+        "marker-color": "#000100",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.68465,
+          10.16978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Fernando West Secondary",
+        "description": "San Fernando West Secondary: Not Sampled",
+        "sampled": 0,
+        "sampledstatus": "Not Sampled",
+        "FID": 33,
+        "id": 9,
+        "long": -61.4635,
+        "lat": 10.27071,
+        "marker-color": "#000100",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4635,
+          10.27071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "St. Joseph Convent San Fernando",
+        "description": "St. Joseph Convent San Fernando: Not Sampled",
+        "sampled": 0,
+        "sampledstatus": "Not Sampled",
+        "FID": 38,
+        "id": 10,
+        "long": -61.463945,
+        "lat": 10.279555,
+        "marker-color": "#000100",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.463945,
+          10.279555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Williamsville Secondary",
+        "description": "Williamsville Secondary: Not Sampled",
+        "sampled": 0,
+        "sampledstatus": "Not Sampled",
+        "FID": 42,
+        "id": 11,
+        "long": -61.3801,
+        "lat": 10.31178,
+        "marker-color": "#000100",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3801,
+          10.31178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ASJA Girls' College Barrackpore",
+        "description": "ASJA Girls' College Barrackpore: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 2,
+        "id": 12,
+        "long": -61.38128,
+        "lat": 10.20445,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.38128,
+          10.20445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Barrackpore (West) Secondary School",
+        "description": "Barrackpore (West) Secondary School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 3,
+        "id": 13,
+        "long": -61.40076,
+        "lat": 10.20877,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.40076,
+          10.20877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Barrackpore (East) Secondary School",
+        "description": "Barrackpore (East) Secondary School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 4,
+        "id": 14,
+        "long": -61.39714,
+        "lat": 10.20692,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.39714,
+          10.20692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Couva East Secondary School",
+        "description": "Couva East Secondary School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 6,
+        "id": 15,
+        "long": -61.46265,
+        "lat": 10.41869,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.46265,
+          10.41869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Couva West Secondary School",
+        "description": "Couva West Secondary School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 7,
+        "id": 16,
+        "long": -61.46546,
+        "lat": 10.41901,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.46546,
+          10.41901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Debe High School",
+        "description": "Debe High School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 8,
+        "id": 17,
+        "long": -61.4502,
+        "lat": 10.21737,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4502,
+          10.21737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fyzabad Anglican Secondary School",
+        "description": "Fyzabad Anglican Secondary School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 9,
+        "id": 18,
+        "long": -61.54687,
+        "lat": 10.1763,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.54687,
+          10.1763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fyzabad Composite School",
+        "description": "Fyzabad Composite School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 10,
+        "id": 19,
+        "long": -61.53929,
+        "lat": 10.17877,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.53929,
+          10.17877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Holy Faith Convent Couva",
+        "description": "Holy Faith Convent Couva: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 12,
+        "id": 20,
+        "long": -61.46199,
+        "lat": 10.42195,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.46199,
+          10.42195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Holy Faith Convent Penal",
+        "description": "Holy Faith Convent Penal: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 13,
+        "id": 21,
+        "long": -61.45185,
+        "lat": 10.16724591,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.45185,
+          10.16724591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Iere High School",
+        "description": "Iere High School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 14,
+        "id": 22,
+        "long": -61.501715,
+        "lat": 10.145445,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.501715,
+          10.145445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Romaine High School",
+        "description": "La Romaine High School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 15,
+        "id": 23,
+        "long": -61.479015,
+        "lat": 10.239555,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.479015,
+          10.239555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Naparima Girls' High School",
+        "description": "Naparima Girls' High School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 18,
+        "id": 24,
+        "long": -61.46215,
+        "lat": 10.28003,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.46215,
+          10.28003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "NESC Couva",
+        "description": "NESC Couva: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 19,
+        "id": 25,
+        "long": -61.47070323,
+        "lat": 10.41450126,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.47070323,
+          10.41450126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "NESC Ste Madeline",
+        "description": "NESC Ste Madeline: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 20,
+        "id": 26,
+        "long": -61.42596,
+        "lat": 10.26878,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.42596,
+          10.26878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Open Bible High School",
+        "description": "Open Bible High School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 21,
+        "id": 27,
+        "long": -61.46621,
+        "lat": 10.27142,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.46621,
+          10.27142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Palo Seco Secondary School",
+        "description": "Palo Seco Secondary School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 22,
+        "id": 28,
+        "long": -61.58824,
+        "lat": 10.09169,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.58824,
+          10.09169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Parvati Girls' Hindu College",
+        "description": "Parvati Girls' Hindu College: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 23,
+        "id": 29,
+        "long": -61.45341771,
+        "lat": 10.21425616,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.45341771,
+          10.21425616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Penal Secondary School",
+        "description": "Penal Secondary School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 24,
+        "id": 30,
+        "long": -61.45185,
+        "lat": 10.16901555,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.45185,
+          10.16901555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point Fortin East Secondary",
+        "description": "Point Fortin East Secondary: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 26,
+        "id": 31,
+        "long": -61.67115,
+        "lat": 10.16564,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.67115,
+          10.16564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Presentation College San Fernando",
+        "description": "Presentation College San Fernando: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 28,
+        "id": 32,
+        "long": -61.46104,
+        "lat": 10.27844,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.46104,
+          10.27844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Preysal High School",
+        "description": "Preysal High School: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 29,
+        "id": 33,
+        "long": -61.413625,
+        "lat": 10.416075,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.413625,
+          10.416075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Princes Town West Secondary",
+        "description": "Princes Town West Secondary: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 30,
+        "id": 34,
+        "long": -61.35158,
+        "lat": 10.2676,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.35158,
+          10.2676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Princes Town East Secondary",
+        "description": "Princes Town East Secondary: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 31,
+        "id": 35,
+        "long": -61.3506,
+        "lat": 10.26677,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3506,
+          10.26677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Fernando Central Secondary",
+        "description": "San Fernando Central Secondary: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 32,
+        "id": 36,
+        "long": -61.4637,
+        "lat": 10.26777,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.4637,
+          10.26777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shiva Boys' Hindu College",
+        "description": "Shiva Boys' Hindu College: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 34,
+        "id": 37,
+        "long": -61.452775,
+        "lat": 10.17018,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.452775,
+          10.17018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Siparia East Secondary",
+        "description": "Siparia East Secondary: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 35,
+        "id": 38,
+        "long": -61.52256,
+        "lat": 10.14156,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.52256,
+          10.14156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Siparia West Secondary",
+        "description": "Siparia West Secondary: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 36,
+        "id": 39,
+        "long": -61.52254926,
+        "lat": 10.14153996,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.52254926,
+          10.14153996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "St. Benedict's College",
+        "description": "St. Benedict's College: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 37,
+        "id": 40,
+        "long": -61.48237,
+        "lat": 10.25018,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.48237,
+          10.25018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ste Madeline Secondary",
+        "description": "Ste Madeline Secondary: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 39,
+        "id": 41,
+        "long": -61.43636,
+        "lat": 10.26795,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.43636,
+          10.26795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union Claxton Bay Secondary",
+        "description": "Union Claxton Bay Secondary: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 40,
+        "id": 42,
+        "long": -61.46074,
+        "lat": 10.34719,
+        "marker-color": "#ED2724",
+        "marker-size": "medium",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.46074,
+          10.34719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ED2724",
+        "marker-symbol": "school",
+        "title": "Vessigny Secondary",
+        "description": "Vessigny Secondary: Sampled",
+        "sampled": 1,
+        "sampledstatus": "Sampled",
+        "FID": 41,
+        "id": 43,
+        "long": -61.62993,
+        "lat": 10.21894,
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.62993,
+          10.21894
+        ]
+      }
+    }
+  ]
+}
